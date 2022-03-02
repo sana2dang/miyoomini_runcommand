@@ -1,0 +1,7 @@
+{
+"label":"런커맨드",
+"icon":"icon.png",
+"iconsel":"icon.png",
+"launch":"launch.sh",
+"description":"UI 런커맨드"
+}
